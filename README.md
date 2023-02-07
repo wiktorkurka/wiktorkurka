@@ -1,16 +1,24 @@
-### Hi there 👋
+### <p align="center">Welcome</p>
+<p align="center">My name is Wiktor, I'm a 3rd year Applied Computer Science student and a pentester from Poland </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=wiktorkurka&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorkurka" />
+</p>
 
-<!--
-**wiktorkurka/wiktorkurka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkurka&show_icons=true&locale=en&layout=compact" alt="wiktorkurka" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorkurka&" alt="wiktorkurka" />
+</p>
+
+___
+
+<p align="center">
+  Lately I really have a hard time deciding what I want to do next...
+  <br>
+  Not figuring out what I want to do. Deciding which thing to go with first.
+</p>
+<p align="center">The only problem with this whole <b>"I wAnT tO lEaRn EvErYtHiNg"</b> attitude is that a day has only 24 hours and you've got to sleep sometimes.</p>
