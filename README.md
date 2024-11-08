@@ -1,10 +1,14 @@
 ### <p align="center">Welcome</p>
-<p align="center">My name is Wiktor, I'm a 3rd year Applied Computer Science student and a pentester from Poland </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=wiktorkurka&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorkurka" />
+<p>My name is Wiktor, I'm a Bachelor of Engineering in Applied Computer Science, Red Teamer and a Security Researcher from Poland </p>
+
+<p>
+  I have over 3 years of professional experience in penetration testing and product security, as well as over a year of experience in red teaming.  
+  I'm also an avid homelabber who is continuously reconfiguring, improving <i>(and breaking)</i> his home network.
 </p>
 
+
 ---
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkurka&show_icons=true&locale=en&layout=compact" alt="wiktorkurka" />
@@ -12,6 +16,9 @@
 -->
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorkurka&" alt="wiktorkurka" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wiktorkurka&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorkurka" />
 </p>
 
 ___
